@@ -1,0 +1,13 @@
+{
+  "firstName": "Dithara",
+  "lastName": "Gunawardane",
+  "privateName": true,
+  "picture": "https://photos.google.com/photo/AF1QipP5pL4xYS1auZ2ZjSiZrnqrTnaISRut1I58KtFk",
+  "privatePicture": true,
+  "email": "dithara.gunawardane@mail.utoronto.ca",
+  "privateEmail": true,
+  "github": "Dithara",
+  "privateGithub": false,
+  "superpower" : "speed reading",
+  "academicinterests": "history, political science, environmental studies, criminology, languages"
+}
